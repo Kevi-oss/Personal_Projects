@@ -1,0 +1,12 @@
+---
+:id: 7251242
+:submitters:
+- :name: King Ting Lam
+  :email: klam344@uwo.ca
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-12-04 22:30:14.386181000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-12-04 14:30:14.386181000 Z
+:status: processed
+:score: 50.0
